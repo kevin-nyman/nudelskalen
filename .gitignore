@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build directories
+dist/
+build/
+
+# Dependency directories for yarn workspaces (if applicable)
+.yarn/
+
+# Coverage reports (if you use a testing framework like Jest)
+coverage/
+
+# Temporary files created by the operating system or text editors
+*.swp
+*.swo
